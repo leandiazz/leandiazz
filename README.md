@@ -2,14 +2,13 @@
 
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat <br/>
 📚 I am studying university technology in computer systems at [UTN Avellaneda](https://fra.utn.edu.ar/)
-<!--Profile Count Badge-->
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zurdo&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
   <summary>
@@ -19,7 +18,6 @@
 </div>
 <br />
 
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,git,github,githubactions,html,css,nodejs,astro,angular,express,mongodb&perline=8" />
@@ -27,10 +25,8 @@
 </p>
 
 <a href="https://www.linkedin.com/in/leandiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro diaz" height="30" width="40" /></a>
-<a href="mailto:leandrodiaz042@gmail.com" >
+<a href="mailto:leandrodiaz042@gmail.com?" >
   <img align="center" alt="Leandro Diaz | Gmail" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
 
----
-
-Last Edited on: 24/01/2024
+Last Edited on: 14/02/2024
