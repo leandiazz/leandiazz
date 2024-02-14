@@ -25,7 +25,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/leandiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro diaz" height="30" width="40" /></a>
-<a href="mailto:leandrodiaz042@gmail.com?" >
+<a href="https://mailto:leandrodiaz042@gmail.com?" >
   <img align="center" alt="Leandro Diaz | Gmail" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
 
