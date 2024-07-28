@@ -8,11 +8,11 @@ I'm a 21-year-old developer based in Argentina, and I'm passionate about craftin
  
 **Version Control:** `Git` `Github` `Github Actions`
 
-**Backend Development:** `Firebase` 
+**Backend Development:** `Firebase` `Postgres`
 
 **Testing:** `Cypress` `Playwright` `Vitest`
 
-**Others:** `Zod` `Zustand` `Scrum`
+**Others:** `Zod` `Zustand` `Scrum` `Prisma`
 
 ## 📫 Contact
 
